@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-Private-yellow)](LICENSE)
 
 > **A production-ready, enterprise-grade user management system built with Spring Boot 3.x, featuring advanced security, multi-tenancy, and comprehensive audit trails.**
+>
+> **The code has been pushed to the private repository. Code reviews are available upon request.”**
 
 ## 🌟 **Why This Project Stands Out**
 
