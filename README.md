@@ -10,6 +10,7 @@
 > **A production-ready, enterprise-grade user management system built with Spring Boot 3.x, featuring advanced security, multi-tenancy, and comprehensive audit trails.**
 >
 > **The code has been pushed to the private repository. Code reviews are available upon request.”**
+> **This project is part of my professional portfolio. For Code reviews please reach out directly. "grakwana@gmail.com"**
 
 ## 🌟 **Why This Project Stands Out**
 
@@ -21,7 +22,7 @@ This isn't just another CRUD application. It's a **comprehensive enterprise solu
 - **Scalable microservice architecture**
 - **Enterprise-level code quality**
 
-- *This project is part of my professional portfolio. For Code reviews please reach out directly. "grakwana@gmail.com"*
+
 
 ---
 
