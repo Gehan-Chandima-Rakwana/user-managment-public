@@ -21,6 +21,8 @@ This isn't just another CRUD application. It's a **comprehensive enterprise solu
 - **Scalable microservice architecture**
 - **Enterprise-level code quality**
 
+- *This project is part of my professional portfolio. For Code reviews please reach out directly. "grakwana@gmail.com"*
+
 ---
 
 ## 📋 **Table of Contents**
